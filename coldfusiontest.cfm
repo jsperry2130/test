@@ -1,0 +1,1 @@
+<cfoutput>#ucase("hello world what's up??")#</cfoutput>
