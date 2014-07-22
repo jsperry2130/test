@@ -1,1 +1,1 @@
-<cfoutput>#ucase("hello world what's up, what's really up??")#</cfoutput>
+<cfoutput>#ucase("hello world what's up, what's really up?? What's really really up?")#</cfoutput>
