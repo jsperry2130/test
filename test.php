@@ -2,4 +2,5 @@ Hello This is  a test.
 
 <br>
 
- <?php echo '<p>Hello World How's it going??</p>'; ?> 
+ <?php echo '<p>Hello World Whatup?</p>'; ?> 
+ <br /> This is another paragraph here as well.
